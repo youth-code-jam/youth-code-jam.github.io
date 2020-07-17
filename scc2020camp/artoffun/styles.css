@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100|Modak&display=swap');
+
+ 
+
+
+header  {background-color: white;}
+body {background-color: white; background-image: url("paint.jpg");
+ background-position: center; background-repeat: no-repeat; background-size: cover;}
+footer  {background-color: white;}
+
+h1 {color:#144F5D}
+h2 {color:#144F5D}
+p  {color:black; font-size: 2em; font-family: 'Grenze Gotisch';}
+
+   

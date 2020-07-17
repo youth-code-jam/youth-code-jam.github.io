@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+body {
+	background-color: #D9A6D8;
+	 background-image: url("cmnbg");
+	}  
+	
+	p {
+		color:#FAEB81;
+		font-size: 1.1em;
+		font-family:'Bitter', serif;
+		background:#D9A6D8;
+		left: 0;
+		bottom: 0;
+		text-align: center;
+	}
+	
+	a { 
+		color:#78F2FA;
+	}
+	
+	img {
+		max-width:50%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 40%;
+	}
+	
+	iframe {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	
+	h1 {
+		color:#FAEB81;
+		font-family: 'Prata', serif;
+		font-size: 2.5em;
+		background:#D9A6D8;
+		text-align: center;
+		
+	}
+	
+	h2 { 
+		color:#78F2FA;
+		font-family: 'Bitter', serif;
+		font-size:1.4em;
+		background:#D9A6D8;
+	}
+	
+	h3 {
+		color:#78F2FA;
+		font-family: 'Bitter', serif;
+		font-size:1.4em;
+		background:#D9A6D8;
+	}
+	
+	h4 {
+		color:#78F2FA;
+		font-family: 'Bitter', serif;
+		font-size:1.4em;
+		background:#D9A6D8;
+	}
+	
+	

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans+Condensed:wght@700&display=swap');
+
+body {	
+		background-color:#FFFFFF;
+		background-image: url("pattern.jpg")
+}
+p {
+		font-size: 1.2em;
+		font-family: 'Lato', sans-serif;
+}
+h1 {
+		font-size: 15em;
+		font-family: 'Open Sans Condensed', sans-serif;
+		background: #EC7878;
+		padding: 0px
+}
+h2 {
+		font-size: 2em;
+		font-family: 'Merriweather', serif;
+}
+h3 {
+		font-size: 1.5em;
+		font-style:italic;
+		font-family: 'Merriweather', serif;
+}
+main img {
+		background: #0D1F2D;
+		padding: 10px
+}
+
+/*0D1F2D//
+//EC7878//
+//4EE6E6//
+background-color:#FFFFFF;	*/
